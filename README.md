@@ -1,4 +1,4 @@
-# tailwind2-install-in-laravel8
+# Tailwind 2.0.1 Install in Laravel 8
 
 Follow these Step
 1. copy or update these files
